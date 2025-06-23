@@ -54,8 +54,8 @@
 # Machine Learning Models
 
 ## 1>Logistic Regression
-SMOTE applied + scaling
-Model trained on balanced & scaled data
+- SMOTE applied + scaling
+- Model trained on balanced & scaled data
 ![Logistic Regression](
 https://github.com/Anshpatel1825/credit-card-fraud-detection/blob/main/Screenshot%202025-06-23%20180313%20-%20Copy.png?raw=true)
 

@@ -69,7 +69,7 @@ https://github.com/Anshpatel1825/credit-card-fraud-detection/blob/main/Screensho
 - TN (Correct non-fraud): 69858
 
 #### ROC Curve
-- AUC Score: 0.96
+- AUC Score: 0.93
 ![Logistic Regression ROC Curve](https://github.com/Anshpatel1825/credit-card-fraud-detection/blob/main/Screenshot%202025-06-23%20180326%20-%20Copy.png?raw=true)
 
   

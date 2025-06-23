@@ -82,10 +82,10 @@ https://github.com/Anshpatel1825/credit-card-fraud-detection/blob/main/Screensho
 ![Random Forest](https://github.com/Anshpatel1825/credit-card-fraud-detection/blob/main/Screenshot%202025-06-23%20180358%20-%20Copy.png?raw=true)
 
 #### Confusion Matrix:
-- TP: 123
-- FN: 0
-- FP: 69190
-- TN: 1889
+- TP: 111
+- FN: 12
+- FP: 3260
+- TN: 67819
 
 #### ROC Curve
 - AUC Score: 0.94
